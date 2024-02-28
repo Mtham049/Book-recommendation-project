@@ -1,9 +1,3 @@
-### Hi there 👋
+### Hi there 👋 I am a Master's student set to graduate in April 2024, with 3.5 years of practical experience in ETL, data ingestion, and Big Data testing within the Banking sector. I have a proven track record of delivering significant projects using AWS, Azure, and Python. I am eager to leverage my skills to drive data-driven innovation and contribute my expertise. Currently, I am exploring dashboard creation, ETL flows, and data analysis, and updating my GitHub profile. Feel free to connect with me on LinkedIn: [https://www.linkedin.com/in/manjula-thambidurai](url).
 
-<!--
-**Mtham049/Mtham049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently a Master's student who is about in graduate this April 2024 with 3.5 years of hands-on ETL, data ingestion, and Big Data testing experience in Banking domain. Proven track record of delivering impactful projects in AWS, Azure, and Python.Looking for opportunities to drive data-driven innovation and contribute expertise.![image](https://github.com/Mtham049/Mtham049/assets/133783908/e6ab13dd-7672-4fd1-9b65-bad46f318b70)
-- 🌱 I’m currently trying my hands on creating dashboards , ETL flows and data analysis and updating my github profile
-- 📫 How to reach me: [https://www.linkedin.com/in/manjula-thambidurai](url)
-- 😄 Pronouns: She / Her
